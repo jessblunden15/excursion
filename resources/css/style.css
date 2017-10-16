@@ -1,1 +1,33 @@
+html {
+  background-color: black;
+  text-align: center;
+  Font-family:Verdana;
+}
 
+h1{
+  Font-weight:normal;
+  Font-size:50px;
+  Color:white;
+
+}
+
+a {
+  Color:Aquamarine;
+  Font-size: 16px;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
+}
+
+#info{
+  font-size:21px;
+  color:gray;
+}
+
+#copyright{
+  text-align:right;
+  color:gray;
+}
